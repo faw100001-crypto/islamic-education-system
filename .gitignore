@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.env
+.venv
+
+# Database (اختياري - احذف هذا السطر لرفع قاعدة البيانات)
+# halaqat.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Backup files
+*_backup.*
+backups/
+exports/
+
+# Test files
+debug_*.html
+debug_*.py
+test_*.py
+check_*.py
+
+# Temporary files
+*.tmp
+*.temp
